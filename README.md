@@ -1,4 +1,4 @@
-# Hi There 👋🏻 !
+# Hi There ! 👋🏻
 
 What's this repository ? 💡
 
