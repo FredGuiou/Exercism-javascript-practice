@@ -1,7 +1,3 @@
-// @ts-check
-
-import { resolveObjectURL } from "buffer";
-
 /**
  * Retrieve card from cards array at the 0-based position
  *
